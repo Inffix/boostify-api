@@ -1,0 +1,25 @@
+{
+  "name": "boostify-api",
+  "version": "1.0.0",
+  "description": "Module for working with the Boostify API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inffix/boostify-api.git"
+  },
+  "keywords": [
+    "boostify"
+  ],
+  "author": "inffix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Inffix/boostify-api/issues"
+  },
+  "homepage": "https://github.com/Inffix/boostify-api#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
